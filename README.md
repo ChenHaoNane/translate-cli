@@ -9,6 +9,6 @@
 
 ### Usage
 ```
-	trn hello
+  trn hello
 ```
 
